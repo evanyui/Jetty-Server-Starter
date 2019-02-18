@@ -20,7 +20,7 @@ public class Application {
     private static final int DEFAULT_PORT = 8000;
     private static final String PORT = "PORT";
     private static final String DELIMITER = "/";
-    private static final String RESOURCE_DEV = "../ReactBaseTemplate/dist";
+    private static final String RESOURCE_DEV = "../Minimal-React-Starter/dist";
     private static final String INDEX = "index.html";
     private static final String API = "/API";
 
